@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+}
+.addform{
+    margin:150px auto;
+    border:1px solid #eee;
+    width:200px;
+    padding:20px;
+    height:auto;
+    display: flex;
+    flex-direction: column;
+
+
+}
+.addform > form > input {
+    padding:8px;
+   
+}
+.users-table{
+    width:400px;
+    border:1px solid #eee;
+    height:400px;
+    margin:0 auto;
+}
